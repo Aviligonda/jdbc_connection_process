@@ -1,0 +1,9 @@
+JDBC Connection
+1 . First we need to install mysql Connector zip file
+2 . Extract the zip file
+3 . open extract file copy the mySql connector jar file
+4 . Create the directory in a JDBC program and paste it to that directory
+5 . Select settings -> project structure -> module
+-> click (+) symbol in down module sdk -> the select before paste the jar file
+-> apply all -> ok
+6 . Start writing in program
